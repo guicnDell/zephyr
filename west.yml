@@ -10,8 +10,6 @@
 # tree application directory, which would pull this zephyr repository
 # in as an ordinary project.
 #
-# You can pass your manifest repositories to west init when creating a
-# new Zephyr installation. See the west documentation for more
 # information.
 
 manifest:
